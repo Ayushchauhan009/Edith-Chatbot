@@ -8,5 +8,6 @@
 ## How to use it!
 
 ```
-git clone git@github.com:<your_github_username>/.git
+git clone https://github.com/Ayushchauhan009/Edith-chatbot.git
 ```
+#### open with live server vs code extension!
